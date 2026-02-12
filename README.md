@@ -1,3 +1,1 @@
 # cypresstraining
-
-test
